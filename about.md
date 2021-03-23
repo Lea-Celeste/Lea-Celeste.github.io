@@ -3,4 +3,5 @@ layout: default
 title: About
 ---
 
-在这里添加个人介绍。
+aph/冰与火之歌/hp
+不和洁癖玩
