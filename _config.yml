@@ -63,6 +63,6 @@ gittalk:
   # You must specify the website domain url in the Authorization callback URL field.
   clientID: ee4f12fb83c53adfbc5c # 改成你的 GitHub Application Client ID
   clientSecret: 46af9f738b7b1a719e934a42f6fdebc1c8d62296  # 改成你的 GitHub Application Client Secret,
-  repository: Patti2003.github.io  # 改成你的 Storage gittalk's repository
-  owner: Patti2003  # 改成你的 GitHub repo owner,
-  admin: Patti2003  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
+  repository: Lea-Celeste.github.io  # 改成你的 Storage gittalk's repository
+  owner: Lea-Celeste  # 改成你的 GitHub repo owner,
+  admin: Lea-Celeste  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
