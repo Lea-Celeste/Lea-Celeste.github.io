@@ -1,7 +1,7 @@
 ---
 title: 【授权翻译|仏独】Drunkenly Seducing
 layout: post
-categories: [分类一]
+categories: [APH|翻译,授权翻译]
 image:
 #gif: mygif
 description: "在一次欧盟派对上，醉酒的路德维希被他最初同意开车的哥哥单独留下。弗朗西斯把他带到一家旅馆，带着无辜的眼神，经过一番劝说，路德维希最终设法说服弗朗西斯和他在一起。"
