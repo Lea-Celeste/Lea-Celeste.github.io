@@ -1,17 +1,17 @@
 ---
 title: 【无授翻|爱丽舍】Mechanics
 layout: post
-categories: [APH|翻译,无授权翻译]
+categories: [APH,爱丽舍]
 #image: assets/img/airplane.jpg
 #gif: mygif
 description: "弗朗西斯的车在他前往拍摄的时候抛锚了，但他无法得到帮助。"
 customexcerpt: "AO3 work 2891816"
 ---
-#Summary:
+Summary:
 
 弗朗西斯的车在他前往拍摄的时候抛锚了，但他无法得到帮助。
 
-#Notes:
+Notes:
 
 这是我送给nippleansantaparty的秘密圣诞礼物。很抱歉完成它花了我很长时间，但我希望这个作品本身能弥补这点。
 
@@ -20,7 +20,7 @@ customexcerpt: "AO3 work 2891816"
 但如果你不满意的话，请随时来烦我！
 
 
-#WorkText:
+WorkText:
 
 这辆线条流畅的黄色轿车在尘土飞扬的道路上疾驰，与四周荒凉的环境形成鲜明对比。除了马达发出的轻微嗡嗡声和疾风的呼啸外，没有其他任何声音。至少，在弗朗西斯的经理决定给他打电话之前，是没有其他声音的。
 
