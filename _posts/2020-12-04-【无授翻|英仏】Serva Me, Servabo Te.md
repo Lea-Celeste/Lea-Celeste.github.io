@@ -1,7 +1,7 @@
 ---
 title: 【无授翻|英仏】Serva Me, Servabo Te
 layout: post
-categories: [APH,Dover]
+categories: [APH,Dover,Kissing Knuckles]
 image:
 #gif: mygif
 description: "拯救我，我就会拯救你"
