@@ -10,7 +10,7 @@ customexcerpt: "AO3 work 907936"
 
 AO3 work 907936
 
-原作者 traumschwinge
+by traumschwinge
 
 翻评论区有授权
 
