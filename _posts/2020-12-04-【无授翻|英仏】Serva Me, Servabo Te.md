@@ -1,7 +1,7 @@
 ---
-title: 创建自己的博客
+title:【无授翻|英仏】Serva Me, Servabo Te
 layout: post
-categories: [分类一]
+categories: [APH,Dover]
 image:
 #gif: mygif
 description: "这是一个使用这个框架创造博客的傻瓜方法"
